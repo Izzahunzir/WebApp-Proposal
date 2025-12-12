@@ -81,12 +81,13 @@ Administrators have access to a dedicated panel where they can manage all courts
 # **3.0 ERD Diagram**
 
 FSC Indoor Booking System
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/87b1e572-e606-4d21-b346-3a7d93940121" />
 
 
 
 
 # **4.0 Sequence Diagram**
-
+![Image](https://github.com/user-attachments/assets/c886bcf8-8661-43b4-81d8-c557a9bea47a)
 
 
 
