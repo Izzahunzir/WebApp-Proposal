@@ -1,0 +1,12 @@
+# IIUM Sport Complex Booking System
+
+## Setup Instructions
+1. Run `composer install`
+2. Set up your `.env` file with your database name.
+3. Run `php artisan migrate`
+
+## How to test the Auto-Cancel Feature
+To see the 10-minute auto-cancel logic working:
+1. Open Terminal 1: `php artisan serve`
+2. Open Terminal 2: `php artisan schedule:work`
+3. Ensure your timezone in `.env` is `Asia/Kuala_Lumpur`.
